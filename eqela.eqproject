@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SprTest2
+#
+
+projectname: SprTest2
+vendorid: com.lma.tst
+mainmodule: com.lma.tst.sprtest2
